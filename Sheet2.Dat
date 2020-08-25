@@ -1,0 +1,23 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Free Documents|ReportField=ProjectFullPath~Free Documents|ReportField=Title~Bill of Materials For Schematic Document [Sheet2.SchDoc]|ReportField=TotalQuantity~31|ReportField=ReportTime~21:38:37|ReportField=ReportDate~15.05.2017|ReportField=ReportDateTime~15.05.2017 21:38:37|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~3-26V|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Jakub Zaj¹czkowski|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~15.05.2017|ReportField=CurrentTime~21:37:07|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Aplication\Dropbox\Dropbox\PWR\Materia³y Naukowe\Altium projekty\Zasilacz Warsztatowy\Sheet2.SchDoc|ReportField=DocumentName~Sheet2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~15.05.2017|ReportField=Organization~|ReportField=ProjectName~Zasilacz|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Zasilacz DC|ReportField=DataSourceFileName~Sheet2.SchDoc|ReportField=DataSourceFullPath~D:\Aplication\Dropbox\Dropbox\PWR\Materia³y Naukowe\Altium projekty\Zasilacz Warsztatowy\Sheet2.SchDoc
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2|CAPR2.54-5.1x2.5|Cap Semi|2
+Cap Pol1|Polarized Capacitor (Radial)|C3|CAPPR7.5-16x20|Cap Pol1|1
+Cap Pol1|Polarized Capacitor (Radial)|C4|CAPPR5-6.3x15|Cap Pol1|1
+LED0|Typical INFRARED GaAs LED|D1|LED-0|LED0|1
+Diode 159|Default Diode|D2|SMC|Diode|1
+Diode 1N4001|1 Amp General Purpose Rectifier|D3|DO-41|Diode 1N4001|1
+Fuse 1|Fuse|F1|PIN-W2/E2.8|Fuse 1|1
+Plug AC Female|IEC Mains Power Outlet, EN60 320-2-2 F Class I, PC Flange Rear Mount, Chassis Socket|J1|IEC7-2H3|Plug AC Female|1
+Bridge1|Full Wave Diode Bridge|M1|D-38|Bridge1|1
+ARK||OUT1, OUT2|ARK2|ARK|2
+Res2|Resistor|R1, R2, R3, R4, R5, R6, R9|AXIAL-0.4|Res2|7
+RPot|Potentiometer|R7, R8|VR5|RPot|2
+SW-DPST|Double-Pole, Single-Throw Switch|S1|DPST-4|SW-DPST|1
+toggle_switch_3_mono|Single 3-stage toggle switch|SW1||toggle_switch_3_mono|1
+toggle_switch_3|Dual 3-stage toggle switch|SW2||toggle_switch_3|1
+BC547B|Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box|T1|ONSC-TO-92-3-29-11|BC547B|1
+BUV27|NPN Silicon Power Transistor, 3-Pin TO-220, Tube|T2|ONSC-TO-220-3-221A-09|BUV27|1
+Trans Cupl|Transformer (Coupled Inductor Model)|Tr1|TRF_4|Trans Cupl|1
+L200C|Adjustable Voltage and Current Regulator, 5-Pin Pentawatt, Tube|US1|PentawattV|L200CV|1
+Woltomierz||V1||woltomierz|1
+||Z1|ARK2|ARK|1
+k||Z2|ARK2|ARK|1
